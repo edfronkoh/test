@@ -19,7 +19,7 @@ body {
 /* header at the top */
 #header {
     height: 50vh;
-    background-image: url("/resources/projects/tn-my-first-website/pencils-1280558_1920.jpg");  
+    background-image: url("https://app.bsd.education/resources/projects/tn-my-first-website/pencils-1280558_1920.jpg");  
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
